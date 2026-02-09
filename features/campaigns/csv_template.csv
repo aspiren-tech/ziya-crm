@@ -1,0 +1,5 @@
+phone,name,group,tags,custom_field_1,custom_field_2
++1234567890,John Doe,Customers,"vip,premium",Manager,Technology
++1234567891,Jane Smith,Leads,"new,interested",Designer,Creative
++1234567892,Bob Johnson,Customers,"loyal",Developer,IT
++1234567893,Alice Williams,Prospects,"follow-up",Director,Marketing
