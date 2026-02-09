@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Ziya  CRM ",
+  "description": "A frontend blueprint for a Zoho-like CRM application. This is a frontend-only implementation for UI/UX demonstration, featuring leads, campaigns, and dashboards, with data mocked locally.",
+  "requestFramePermissions": []
+}
