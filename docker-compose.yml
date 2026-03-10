@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  node-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: ziya-crm
+    restart: unless-stopped
+    ports:
+      - "80:5000"
+    environment:
+      NODE_ENV: development
